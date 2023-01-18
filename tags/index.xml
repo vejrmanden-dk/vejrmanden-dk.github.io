@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Vejrmandens blog</title>
-    <link>https://vejrmanden-dk.github.io/tags/</link>
+    <link>https://vejrmanden.dk/tags/</link>
     <description>Recent content in Tags on Vejrmandens blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 12 Jan 2023 08:53:43 +0100</lastBuildDate><atom:link href="https://vejrmanden-dk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 08:53:43 +0100</lastBuildDate><atom:link href="https://vejrmanden.dk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>month</title>
-      <link>https://vejrmanden-dk.github.io/tags/month/</link>
+      <link>https://vejrmanden.dk/tags/month/</link>
       <pubDate>Thu, 12 Jan 2023 08:53:43 +0100</pubDate>
       
-      <guid>https://vejrmanden-dk.github.io/tags/month/</guid>
+      <guid>https://vejrmanden.dk/tags/month/</guid>
       <description></description>
     </item>
     
     <item>
       <title>status</title>
-      <link>https://vejrmanden-dk.github.io/tags/status/</link>
+      <link>https://vejrmanden.dk/tags/status/</link>
       <pubDate>Thu, 12 Jan 2023 08:53:43 +0100</pubDate>
       
-      <guid>https://vejrmanden-dk.github.io/tags/status/</guid>
+      <guid>https://vejrmanden.dk/tags/status/</guid>
       <description></description>
     </item>
     

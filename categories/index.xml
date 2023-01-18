@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Vejrmandens blog</title>
-    <link>https://vejrmanden-dk.github.io/categories/</link>
+    <link>https://vejrmanden.dk/categories/</link>
     <description>Recent content in Categories on Vejrmandens blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 12 Jan 2023 08:53:43 +0100</lastBuildDate><atom:link href="https://vejrmanden-dk.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 08:53:43 +0100</lastBuildDate><atom:link href="https://vejrmanden.dk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>https://vejrmanden-dk.github.io/categories/development/</link>
+      <link>https://vejrmanden.dk/categories/development/</link>
       <pubDate>Thu, 12 Jan 2023 08:53:43 +0100</pubDate>
       
-      <guid>https://vejrmanden-dk.github.io/categories/development/</guid>
+      <guid>https://vejrmanden.dk/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>publishing</title>
-      <link>https://vejrmanden-dk.github.io/categories/publishing/</link>
+      <link>https://vejrmanden.dk/categories/publishing/</link>
       <pubDate>Thu, 12 Jan 2023 08:53:43 +0100</pubDate>
       
-      <guid>https://vejrmanden-dk.github.io/categories/publishing/</guid>
+      <guid>https://vejrmanden.dk/categories/publishing/</guid>
       <description></description>
     </item>
     
